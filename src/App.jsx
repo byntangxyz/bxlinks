@@ -116,7 +116,7 @@ function App() {
           className="flex flex-col lg:flex-row w-full max-w-3xl bg-white rounded-2xl overflow-hidden shadow-2xl"
         >
           {/* Kiri: Email */}
-          <div className="bg-neutral-200 p-5 lg:w-1/3 flex flex-col justify-center items-center hover:bg-gradient-to-l hover:from-blue-900 hover:to-cyan-700 text-neutral-700 hover:text-white cursor-pointer">
+          <div className="bg-neutral-200 p-5 lg:w-1/3 flex flex-col justify-center items-center hover:bg-gradient-to-l hover:from-blue-900 hover:to-cyan-700 text-neutral-700 transition hover:text-white cursor-pointer">
             <h2 className="text-xl font-semibold ">Contact</h2>
             <a
               href="mailto:bintangmurtifandy@gmail.com"
